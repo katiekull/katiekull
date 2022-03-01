@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @katiekull
-- 👀 I’m interested in making a career change
-- 🌱 I’m currently learning ... everything ...
-- 📫 kullkatie@gmail.com
+Fullstack developer using JavaScript, React, and Node.js. Leader with 2 years of management experience looking to move into a new career path. Current bootcamp student at Thinkful. 
 
 <!---
 katiekull/katiekull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
